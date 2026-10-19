@@ -1,0 +1,25 @@
+CineTec — versão especial para a feira escolar
+
+ARQUIVOS:
+- index.html: página inicial com Homem-Aranha: Um Novo Dia em destaque e seção Sobre.
+- trailers.html, trailers2.html, ... trailers6.html: páginas com até 10 trailers por página.
+- style.css: tema vermelho/preto, animações, efeitos de hover e layout responsivo.
+- script.js: busca simples para filtrar os trailers da página aberta.
+- logo.png: logo circular vermelha e preta incluída no pacote.
+
+COMO ABRIR:
+1. Extraia todos os arquivos do ZIP para uma única pasta.
+2. Abra o arquivo index.html no navegador (Chrome, Edge ou Firefox).
+3. Mantenha o computador conectado à internet para carregar o fundo e os vídeos do YouTube.
+
+O QUE MOSTRAR NA FEIRA:
+1. A abertura cinematográfica e a logo.
+2. O filme em destaque e o trailer incorporado.
+3. A seção Sobre, que explica HTML, CSS e JavaScript.
+4. A página de trailers, a busca e a navegação entre páginas.
+5. Redimensione o navegador para demonstrar a adaptação a telas menores.
+
+NOTA SOBRE A BUSCA:
+A busca filtra os cards da página atual. Como os vídeos incorporados não revelam com segurança seus títulos, alguns cards ainda estão identificados como "Trailer 01", "Trailer 02" etc.; a busca funciona com esses nomes/números até que os títulos sejam atualizados.
+
+Projeto educacional. Os vídeos incorporados são carregados pelo YouTube e precisam de internet.
